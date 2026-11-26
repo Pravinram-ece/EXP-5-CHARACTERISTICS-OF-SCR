@@ -33,6 +33,7 @@ Reference circuit diagram from the supplied lab record.
 Plot VAK (V) on the X-axis and IAK (mA) on the Y-axis. The curve indicates the forward blocking region, forward breakover point, forward conduction region, holding current and reverse blocking region.
  
 Reference characteristic curve from the supplied lab record.
+
 7. PROCEDURE
 1. Make the connections as shown in the circuit diagram.
 2. Set R1 and R2 to the mid-position and set the regulated supplies V1 and V2 to minimum.
