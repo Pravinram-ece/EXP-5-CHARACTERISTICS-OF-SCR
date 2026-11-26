@@ -23,6 +23,7 @@ SCR terminals:  Anode (A)   |   Gate (G)   |   Cathode (K)
 The main anode-cathode circuit consists of the regulated DC supply, a 1 kΩ series resistor, an ammeter and the SCR. A voltmeter is connected across the SCR to measure VAK. A separate regulated supply is connected through a 1 kΩ resistor to the gate, with a gate ammeter to measure IG.
  
 Reference circuit diagram from the supplied lab record.
+
 6. CHARACTERISTIC CURVE
 
 <img width="933" height="193" alt="exp 5" src="https://github.com/user-attachments/assets/7e80e32b-ee8b-4f2d-bb45-4c89b2981f1a" />
